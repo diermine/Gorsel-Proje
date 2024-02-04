@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GörselProje", "GörselProje\GörselProje.csproj", "{E4C67AD5-6823-46E5-8F31-510939633080}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AlyarBank", "AlyarBank\AlyarBank.vdproj", "{DAFE9D8F-B16B-436C-9C1D-4D162AC012B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C67AD5-6823-46E5-8F31-510939633080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C67AD5-6823-46E5-8F31-510939633080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C67AD5-6823-46E5-8F31-510939633080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C67AD5-6823-46E5-8F31-510939633080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFE9D8F-B16B-436C-9C1D-4D162AC012B2}.Debug|Any CPU.ActiveCfg = Debug
+		{DAFE9D8F-B16B-436C-9C1D-4D162AC012B2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6727F59-DB58-41C0-8625-272D7EA5AB83}
+	EndGlobalSection
+EndGlobal
